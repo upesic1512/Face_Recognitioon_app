@@ -6,4 +6,4 @@ I have built a Siamese Neural Network for One-shot Recognition useing Tensorflow
 I integrated it into a Kivy app 
 
 
-Technologies: Python, TensorFlow, NumPy, OpenCv, Kivy
+Technologies: Jupyter, Python, TensorFlow, NumPy, OpenCv, Kivy
