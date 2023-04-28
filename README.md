@@ -1,4 +1,4 @@
-# Face_Recognitioon_app
+# Face_Recognition_app
 
 
 This is  a deep facial recognition application.
